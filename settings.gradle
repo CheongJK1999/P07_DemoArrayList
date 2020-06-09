@@ -1,0 +1,2 @@
+rootProject.name='Demo ArrayList'
+include ':app'
